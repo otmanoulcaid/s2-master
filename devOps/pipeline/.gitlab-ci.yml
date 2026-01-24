@@ -1,0 +1,18 @@
+image: maven:3.9-amazoncorretto-11-alpine
+
+stages:
+  - compile
+  - test
+
+before_script:
+  - cd app
+
+compile_job:
+  stage: compile
+  script:
+    - mvn compile
+
+test_job:
+  stage: test
+  script:
+    - mvn test

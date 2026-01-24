@@ -1,0 +1,4 @@
+chapitre sur les fonction callback et les promises
+1. Callback
+2. les promises
+3. Callback vs promises

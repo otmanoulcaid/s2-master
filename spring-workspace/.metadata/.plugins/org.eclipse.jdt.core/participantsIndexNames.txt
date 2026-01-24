@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\otman\OneDrive\Desktop\study\s2\spring-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3290800974.index
+\p04-web-annotations\src
+C:\Users\otman\OneDrive\Desktop\study\s2\spring-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\792415480.index
+\p03-web-xml\src
+C:\Users\otman\OneDrive\Desktop\study\s2\spring-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4082449026.index
+\p02-jee-mvc2\src\main\java

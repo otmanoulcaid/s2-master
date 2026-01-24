@@ -1,0 +1,2 @@
+spring.application.name=p05-spring-boot-jsp
+#server.port=80

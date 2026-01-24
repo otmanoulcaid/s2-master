@@ -1,0 +1,17 @@
+.data-table {
+	box-shadow: 2px 2px 5px gray;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	font-family: 'Segoe UI';
+}
+
+.data-table th {
+	background-color: beige;
+	border-bottom: 1px solid gainsboro;
+}
+
+.data-table td {
+	padding: 5px;
+}

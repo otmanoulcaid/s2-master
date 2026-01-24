@@ -1,0 +1,41 @@
+image: chinayin/maven:3.9-jdk-17
+
+stages:
+  - compile
+  - test
+  - package
+  - deploy
+
+compile_job:
+  stage: compile
+  script:
+    - mvn clean compile
+
+unit_test_job:
+  stage: test
+  script:
+    - mvn clean test
+
+integration_test_job:
+  stage: test
+  script:
+    - mvn clean verify
+
+package_job:
+  stage: package
+  script:
+    - mvn clean package
+  artifacts:
+    paths:
+      - target/*.jar
+
+deploy_job:
+  stage: deploy
+  dependencies:
+    - package_job
+  script:
+    - mkdir deploy
+    - cp target/*.jar deploy/
+  rules:
+    - if: $CI_COMMIT_BRANCH == "master"
+      when: always

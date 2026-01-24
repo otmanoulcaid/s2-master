@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <id>1</id>
+    <firstName>Alice</firstName>
+    <lastName>Dupont</lastName>
+    <email>alice.dupont@example.com</email>
+    <birthDate>2000-04-15</birthDate>
+  </student>
+  <student>
+    <id>2</id>
+    <firstName>Mohamed</firstName>
+    <lastName>El Amrani</lastName>
+    <email>mohamed.elamrani@example.com</email>
+    <birthDate>1999-11-03</birthDate>
+  </student>
+  <student>
+    <id>3</id>
+    <firstName>Lucie</firstName>
+    <lastName>Martin</lastName>
+    <email>lucie.martin@example.com</email>
+    <birthDate>2001-01-22</birthDate>
+  </student>
+</students>

@@ -1,0 +1,5 @@
+package org.mql.spring;
+
+public class EntryPoint {
+
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="p01-desktop-xml"/>
+<aop-project name="p05-spring-boot-jsp"/>
+<aop-project name="p03-web-xml"/>
+</aop-reference-model>

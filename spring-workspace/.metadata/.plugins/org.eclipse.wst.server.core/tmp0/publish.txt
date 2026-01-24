@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Mon May 12 17:05:52 GMT+01:00 2025
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\otman\\OneDrive\\Desktop\\study\\s2\\spring-workspace\\p03-web-xml\\WebContent\\WEB-INF\\lib\\spring-web-5.3.16.jar=C\:\\Users\\otman\\OneDrive\\Desktop\\study\\s2\\Spring\\sts-bundle\\pivotal-tc-server\\instances\\server\\wtpwebapps\\p03-web-xml\\WEB-INF\\lib\\spring-web-5.3.16.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\otman\\OneDrive\\Desktop\\study\\s2\\spring-workspace\\p04-web-annotations\\WebContent\\WEB-INF\\lib\\spring-web-5.3.16.jar=C\:\\Users\\otman\\OneDrive\\Desktop\\study\\s2\\Spring\\sts-bundle\\pivotal-tc-server\\instances\\server\\wtpwebapps\\p04-web-annotations\\WEB-INF\\lib\\spring-web-5.3.16.jar
+org.eclipse.jst.jee.server\:p03-web-xml=C\:\\Users\\otman\\OneDrive\\Desktop\\study\\s2\\Spring\\sts-bundle\\pivotal-tc-server\\instances\\server\\wtpwebapps\\p03-web-xml
+org.eclipse.jst.jee.server\:p04-web-annotations=C\:\\Users\\otman\\OneDrive\\Desktop\\study\\s2\\Spring\\sts-bundle\\pivotal-tc-server\\instances\\server\\wtpwebapps\\p04-web-annotations

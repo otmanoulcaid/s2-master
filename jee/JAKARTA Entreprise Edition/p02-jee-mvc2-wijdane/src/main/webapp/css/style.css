@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.data-table{
+	box-shadow: 2px 2px 5px gray;
+	margin-left:auto;
+	margin-right:auto;
+	border-collapse: collapse;
+	font-family: "Segoe UI";
+	
+}
+.data-table th{
+	background-color: beige;
+	border-bottom: 1px solid gainsbaro;
+	
+}
+
+.data-table td{
+	padding: 5px;
+}

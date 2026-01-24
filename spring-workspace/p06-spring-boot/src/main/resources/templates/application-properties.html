@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+	<meta charset="UTF-8">
+	<title>Insert title here</title>
+	<link rel="stylesheet" th:href="@{/css/styles.css}">
+</head>
+<body>
+	<h1>Liste des propriétés</h1>
+	<table class="data-table">
+		<tr><td>Nom :</td><td th:text="${props.applicationName}"></td></tr>
+		<tr><td>Port :</td><td th:text="${props.port}"></td></tr>
+		<tr><td>Contexte :</td><td th:text="${props.context}"></td></tr>
+		<tr><td>Source :</td><td th:text="${props.sourceName}"></td></tr>
+		<tr><td>Username :</td><td th:text="${props.userName}"></td></tr>
+		<tr><td>Userdir :</td><td th:text="${props.userDir}"></td></tr>
+		<tr><td>Java home :</td><td th:text="${props.javaHome}"></td></tr>
+		<tr><td>Java runtime name :</td><td th:text="${props.jre}"></td></tr>
+		<tr><td>Java vendor :</td><td th:text="${props.vendor}"></td></tr>
+		<tr><td>Java vendor url :</td><td th:text="${props.url}"></td></tr>
+		<tr><td>Java version :</td><td th:text="${props.version}"></td></tr>
+		<tr><td>Version date :</td><td th:text="${props.date}"></td></tr>
+	</table>
+</body>
+</html>

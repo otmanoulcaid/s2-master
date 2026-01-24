@@ -1,0 +1,9 @@
+client léger :
+	- Browser
+
+
+front end vs script cote client
+back end vs script cote serveur
+GML(Generilized) (IBM 1969) ancêtre de html (1989)
+GML standarisé le (1979) SGML
+1994

@@ -1,0 +1,12 @@
+[
+    {"id": 101, "name":"Louis Amstrong", "yearBorn": "1901", "genre": "Jazz, Blues"},
+    {"id": 102, "name":"Frank Sinatra", "yearBorn": "1915", "genre": "Jazz, Traditional Pop"},
+    {"id": 103, "name":"Din Marta", "yearBorn": "1917", "genre": "Jazz, Traditional Pop"},
+    {"id": 104, "name":"Doris Day", "yearBorn": "1922", "genre": "Traditional Pop"},
+    {"id": 105, "name":"Ray Charles", "yearBorn": "1930", "genre": "Jazz, Blues"},
+    {"id": 106, "name":"Elvis Pressley", "yearBorn": "1935", "genre": "Rock and Roll"},
+    {"id": 107, "name":"Enrico Marcias", "yearBorn": "1938", "genre": "Chanson"},
+    {"id": 108, "name":"Keny Rogers", "yearBorn": "1938", "genre": "Country"},
+    {"id": 109, "name":"Julio Eglisias", "yearBorn": "1943", "genre": "Chanson"},
+    {"id": 110, "name":"Dolly Partten", "yearBorn": "1946", "genre": "Country"}
+]

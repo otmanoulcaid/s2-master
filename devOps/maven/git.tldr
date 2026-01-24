@@ -1,0 +1,2441 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 4,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 25,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 6,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.asset.image": 5,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 3,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 2,
+			"com.tldraw.shape.geo": 10,
+			"com.tldraw.shape.note": 9,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 1,
+			"com.tldraw.shape.arrow": 5,
+			"com.tldraw.shape.highlight": 1,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 5,
+			"com.tldraw.shape.video": 3,
+			"com.tldraw.binding.arrow": 0
+		}
+	},
+	"records": [
+		{
+			"x": -1980.1428989739823,
+			"y": 1813.5181356788885,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:7nqRzYsO-M4UwU7lVQL4c",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 236.5,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "mvn plugin schema"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aL84xVwm",
+			"typeName": "shape"
+		},
+		{
+			"x": 145.65288754167992,
+			"y": 824.1189945430745,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:FKAg02yrGeIzDxZntObHw",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 949.84375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": ":°    la seule brnach a respecter(wisdom) a partir lequel on cree les branchs"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aC2Py",
+			"typeName": "shape"
+		},
+		{
+			"x": -1950.8796412864674,
+			"y": 652.7397615676135,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:tJ0B80gtqzXQ84GyEeUrs",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 470.8333435058594,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "maven  ==>  everything is an artifact"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aK1Gf",
+			"typeName": "shape"
+		},
+		{
+			"id": "pointer:pointer",
+			"typeName": "pointer",
+			"x": -1850.4283133181893,
+			"y": 1829.877377938527,
+			"lastActivityTimestamp": 1744988399143,
+			"meta": {}
+		},
+		{
+			"x": 22.697993905340837,
+			"y": 1164.826248086203,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:m9n8FOgayEm1skN6T0xOV",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 155.65625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "nom-prenom"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aDaKx",
+			"typeName": "shape"
+		},
+		{
+			"x": 168.17896262626132,
+			"y": 657.9890323604089,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Uw5Jnf30qWZ8wwMgKKZLv",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1018.4375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "git reset HEAD~1 --hard. supprime une commit et supprimer tous les modifications"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aACNT",
+			"typeName": "shape"
+		},
+		{
+			"x": 146.5914820594974,
+			"y": 773.435277267007,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:E5bjGhGOwFlU9YevEDy2_",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 321.5520935058594,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "dto : Data Transfer Object"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aB3m2",
+			"typeName": "shape"
+		},
+		{
+			"x": 158.33341471354166,
+			"y": 521.9999694824219,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:A5PcSdWC8cb7Q8GMHCtcy",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 266.01043701171875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "git restore --staged ."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a76EH",
+			"typeName": "shape"
+		},
+		{
+			"x": 2519.8402865028265,
+			"y": -1306.0647001897369,
+			"z": 0.46428810771333784,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": 0,
+			"y": 63.99854877352425,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:dbdBwN86221mVpv7bkZOE",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 341.6875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "artifactId : mql-ecommerce"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "shape:02c7-ZD8RVNr6PcCFiTFB",
+			"index": "a21co",
+			"typeName": "shape"
+		},
+		{
+			"x": 570.8331321069459,
+			"y": 1138.5458164129116,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:g2i4HYLcp_GylXClXS7Jb",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 232.86459350585938,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "service description"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aDz7CTT",
+			"typeName": "shape"
+		},
+		{
+			"x": 163.6666742960612,
+			"y": 366.88885498046875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:K6TVyFTUXkfp0wHTaqbMf",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 104.1875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "  fix: ......"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a51Hy",
+			"typeName": "shape"
+		},
+		{
+			"x": -1953.7563369431969,
+			"y": 780.6073187586546,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ahFC3GOCU6bNijFKaryXq",
+			"type": "group",
+			"parentId": "page:page",
+			"index": "aO4y2",
+			"props": {},
+			"typeName": "shape"
+		},
+		{
+			"x": 163.6666742960612,
+			"y": 329.9999694824219,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:WxnXHO4ge_ZVfjlc5mMLO",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 124.72917175292969,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "  feat: ......"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a43II",
+			"typeName": "shape"
+		},
+		{
+			"x": 161.00009409586588,
+			"y": 565.3333129882812,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:9iPPtzB02Fir9YDhzUwI5",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1097.96875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "git reset HEAD~1 --soft.  supprimer un commit est met les fichiers dans le statging area"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a87M8",
+			"typeName": "shape"
+		},
+		{
+			"x": 358.712360789621,
+			"y": 1144.1773405546967,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:vKPK90vPYWSGcwdRBZFf0",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 143.17709350585938,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "id de ticket"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aDvZjRB",
+			"typeName": "shape"
+		},
+		{
+			"x": 0,
+			"y": 48.395835876464844,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:0vFCKAK9a2Q1OPDZV28ja",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1157.8333740234375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "pour gerrer un projet maven on utilise 3 artifacts : archetype - quickstart - et notre artifact"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "shape:2Z6tvsJ8VTBCDTe05N3cX",
+			"index": "a28sg",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:7nqRzYsO-M4UwU7lVQL4c"
+			],
+			"hoveredShapeId": "shape:7nqRzYsO-M4UwU7lVQL4c",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": -1953.7563698633617,
+			"y": 476.4763685001075,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:2Z6tvsJ8VTBCDTe05N3cX",
+			"type": "group",
+			"parentId": "page:page",
+			"index": "aK0GCpVM",
+			"props": {},
+			"typeName": "shape"
+		},
+		{
+			"x": 163.6666742960612,
+			"y": 440.6666259765625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:8JZZ8mXBAqrB3t3riWl0G",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 186.02084350585938,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "  refactore: ......"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a6fPp",
+			"typeName": "shape"
+		},
+		{
+			"x": 404.17584095228665,
+			"y": 951.4722577894887,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:pa4t8J2joYQD6DLkdIR1n",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"points": [
+							{
+								"x": 0,
+								"y": 0,
+								"z": 0.5
+							},
+							{
+								"x": -5.63,
+								"y": 13.14,
+								"z": 0.5
+							},
+							{
+								"x": -14.08,
+								"y": 32.85,
+								"z": 0.5
+							},
+							{
+								"x": -19.71,
+								"y": 47.87,
+								"z": 0.5
+							},
+							{
+								"x": -29.1,
+								"y": 69.46,
+								"z": 0.5
+							},
+							{
+								"x": -34.73,
+								"y": 83.53,
+								"z": 0.5
+							},
+							{
+								"x": -42.24,
+								"y": 99.49,
+								"z": 0.5
+							},
+							{
+								"x": -45.99,
+								"y": 107,
+								"z": 0.5
+							},
+							{
+								"x": -48.81,
+								"y": 114.51,
+								"z": 0.5
+							},
+							{
+								"x": -53.5,
+								"y": 124.83,
+								"z": 0.5
+							},
+							{
+								"x": -58.19,
+								"y": 132.34,
+								"z": 0.5
+							},
+							{
+								"x": -61.01,
+								"y": 138.91,
+								"z": 0.5
+							},
+							{
+								"x": -69.46,
+								"y": 151.11,
+								"z": 0.5
+							},
+							{
+								"x": -74.15,
+								"y": 158.62,
+								"z": 0.5
+							},
+							{
+								"x": -76.96,
+								"y": 162.38,
+								"z": 0.5
+							},
+							{
+								"x": -81.66,
+								"y": 167.07,
+								"z": 0.5
+							},
+							{
+								"x": -83.53,
+								"y": 168.95,
+								"z": 0.5
+							},
+							{
+								"x": -87.29,
+								"y": 172.7,
+								"z": 0.5
+							},
+							{
+								"x": -88.23,
+								"y": 173.64,
+								"z": 0.5
+							},
+							{
+								"x": -90.1,
+								"y": 174.58,
+								"z": 0.5
+							},
+							{
+								"x": -91.98,
+								"y": 175.52,
+								"z": 0.5
+							},
+							{
+								"x": -92.92,
+								"y": 176.45,
+								"z": 0.5
+							},
+							{
+								"x": -94.8,
+								"y": 177.39,
+								"z": 0.5
+							}
+						]
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aG0lM",
+			"typeName": "shape"
+		},
+		{
+			"x": 0,
+			"y": 125.5819849648451,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:wEoJCrlVQoCxVeJSwfWGR",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 167.08334350585938,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "version : 1.0.0"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "shape:02c7-ZD8RVNr6PcCFiTFB",
+			"index": "a3CEm",
+			"typeName": "shape"
+		},
+		{
+			"x": -1959.8949910757624,
+			"y": 1061.4394135621028,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:7S9in8c3K4dh6NjC-eVHt",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 951.8125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "plugin(d'apres maven) : artifact pour la gestion de cycle de vie qui a un goal"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aKmBg",
+			"typeName": "shape"
+		},
+		{
+			"x": 104.67134338279857,
+			"y": 0,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:3l4ABorwK3Oj2bFlPwvqZ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 481.60418701171875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "artifact:goal (ex : archetype:generate)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "shape:ahFC3GOCU6bNijFKaryXq",
+			"index": "a1",
+			"typeName": "shape"
+		},
+		{
+			"x": 0,
+			"y": 48.395835876464844,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Ihyq7-WPn2Xs6nyviYtrP",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 291.40625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "gestion de dependance"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "shape:vXzYF7HKdl0TznVTHvQ9q",
+			"index": "a24bc",
+			"typeName": "shape"
+		},
+		{
+			"x": -1938.3649098331173,
+			"y": -1.6324025997495824,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:vXzYF7HKdl0TznVTHvQ9q",
+			"type": "group",
+			"parentId": "page:page",
+			"index": "aJfmE",
+			"props": {},
+			"typeName": "shape"
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:SeX8rmSHZYcMy4eqnnUp5",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 519.1875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "mvn archetype:generate ?? mvn generate"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "shape:2Z6tvsJ8VTBCDTe05N3cX",
+			"index": "a1",
+			"typeName": "shape"
+		},
+		{
+			"x": 165.33343760172525,
+			"y": 608.6666564941406,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Ep7yoQBgF_c5uv1fb5K0V",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1049.229248046875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "git reset HEAD~1 --mixed. supprime une commit et met les fichiers comme untracked"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a981q",
+			"typeName": "shape"
+		},
+		{
+			"x": -1955.5157932462146,
+			"y": 1532.450691829966,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:0gKclsOVeThblMfsTvAQO",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1072.197998046875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "dans la partie build on gerre les plugins (ainsi que d'autre configuartion personnelle) "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aL72K5Lt",
+			"typeName": "shape"
+		},
+		{
+			"x": 126.88116904580866,
+			"y": 914.2233808116388,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:2iwuUhj642SI5ZmFwK1bU",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 553.7291870117188,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "git checkout -b oo/feat/4/add-logout-service"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aD6UL",
+			"typeName": "shape"
+		},
+		{
+			"x": 69.24033484554926,
+			"y": 1228.9916283619268,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:A_zk3f1RSQBlOszzvdTfY",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 933.7396240234375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "git merge --continue : pour continue le merge apres qu'on resoud le conflit"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aCbKB",
+			"typeName": "shape"
+		},
+		{
+			"x": 456.73670429886954,
+			"y": 949.5950902364136,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:5WP73M_JoaGwceDKrlHSI",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"points": [
+							{
+								"x": 0,
+								"y": 0,
+								"z": 0.5
+							},
+							{
+								"x": 0.94,
+								"y": 6.57,
+								"z": 0.5
+							},
+							{
+								"x": 6.57,
+								"y": 56.32,
+								"z": 0.5
+							},
+							{
+								"x": 5.63,
+								"y": 64.76,
+								"z": 0.5
+							},
+							{
+								"x": 3.75,
+								"y": 79.78,
+								"z": 0.5
+							},
+							{
+								"x": 2.82,
+								"y": 83.53,
+								"z": 0.5
+							},
+							{
+								"x": 1.88,
+								"y": 91.98,
+								"z": 0.5
+							},
+							{
+								"x": 0.94,
+								"y": 94.8,
+								"z": 0.5
+							},
+							{
+								"x": 0.94,
+								"y": 97.61,
+								"z": 0.5
+							},
+							{
+								"x": -0.94,
+								"y": 104.18,
+								"z": 0.5
+							},
+							{
+								"x": -1.88,
+								"y": 107.94,
+								"z": 0.5
+							},
+							{
+								"x": -4.69,
+								"y": 114.51,
+								"z": 0.5
+							},
+							{
+								"x": -6.57,
+								"y": 117.32,
+								"z": 0.5
+							},
+							{
+								"x": -8.45,
+								"y": 122.02,
+								"z": 0.5
+							},
+							{
+								"x": -10.32,
+								"y": 127.65,
+								"z": 0.5
+							},
+							{
+								"x": -12.2,
+								"y": 131.4,
+								"z": 0.5
+							},
+							{
+								"x": -16.89,
+								"y": 138.91,
+								"z": 0.5
+							},
+							{
+								"x": -17.83,
+								"y": 142.67,
+								"z": 0.5
+							},
+							{
+								"x": -20.65,
+								"y": 147.36,
+								"z": 0.5
+							},
+							{
+								"x": -22.53,
+								"y": 150.17,
+								"z": 0.5
+							},
+							{
+								"x": -23.46,
+								"y": 151.11,
+								"z": 0.5
+							},
+							{
+								"x": -25.34,
+								"y": 152.05,
+								"z": 0.5
+							},
+							{
+								"x": -26.28,
+								"y": 153.93,
+								"z": 0.5
+							},
+							{
+								"x": -27.22,
+								"y": 155.81,
+								"z": 0.5
+							},
+							{
+								"x": -28.16,
+								"y": 157.68,
+								"z": 0.5
+							},
+							{
+								"x": -30.97,
+								"y": 160.5,
+								"z": 0.5
+							},
+							{
+								"x": -31.91,
+								"y": 161.44,
+								"z": 0.5
+							},
+							{
+								"x": -32.85,
+								"y": 163.31,
+								"z": 0.5
+							},
+							{
+								"x": -34.73,
+								"y": 165.19,
+								"z": 0.5
+							},
+							{
+								"x": -35.67,
+								"y": 166.13,
+								"z": 0.5
+							},
+							{
+								"x": -35.67,
+								"y": 168.01,
+								"z": 0.5
+							},
+							{
+								"x": -36.6,
+								"y": 168.95,
+								"z": 0.5
+							},
+							{
+								"x": -37.54,
+								"y": 168.95,
+								"z": 0.5
+							},
+							{
+								"x": -38.48,
+								"y": 168.95,
+								"z": 0.5
+							}
+						]
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aE2eJ",
+			"typeName": "shape"
+		},
+		{
+			"x": 76.53033981763588,
+			"y": 64.71403567493459,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:WC0ENj8xD04cLgw-dUpYn",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 400.5520935058594,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "git  ==>  everything is a commit"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aL8QV",
+			"typeName": "shape"
+		},
+		{
+			"x": 211.3541171028267,
+			"y": 1146.9930596604697,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:z8jSUExj_D3DXxY2oVY_1",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 93.64583587646484,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "feature"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aDoUmYd",
+			"typeName": "shape"
+		},
+		{
+			"x": -1965.2110067859792,
+			"y": 1639.7443784742127,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:laOKVuzWRnWG8KJAzUKon",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 381.5500183105469,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "mvn clean : supprime le target"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aL7jPjcP",
+			"typeName": "shape"
+		},
+		{
+			"x": 146.0000025431315,
+			"y": 299.3333435058594,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:703GVD6AWL9B-uHPtcKhm",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 295.3125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "les standard de commit"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a3699",
+			"typeName": "shape"
+		},
+		{
+			"x": 163.6666742960612,
+			"y": 403.7777404785156,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:gZLLnFjzaO5ftWV1D9rjS",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 123.36458587646484,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "  test: ......"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a609s",
+			"typeName": "shape"
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:yrJDbXu_IHJGf0_bqEZhN",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 399.9375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "standard de structure de projet"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "shape:vXzYF7HKdl0TznVTHvQ9q",
+			"index": "a1",
+			"typeName": "shape"
+		},
+		{
+			"x": 0,
+			"y": 69.78089558853208,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:mC_1JdLR1-N8AecC47-70",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 485.0625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "artifact <=> groupId:artifactid:version"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "shape:ahFC3GOCU6bNijFKaryXq",
+			"index": "a29wd",
+			"typeName": "shape"
+		},
+		{
+			"x": 0,
+			"y": 123.57036505291171,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:DlPfgWhnx9MtqobAjy3Nt",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 281.7083435058594,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "goal:method à invoker"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "shape:ahFC3GOCU6bNijFKaryXq",
+			"index": "a31li",
+			"typeName": "shape"
+		},
+		{
+			"x": 0,
+			"y": 96.79167175292969,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:A2rb5qSadCvGme0cvbFvt",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 381.1145935058594,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "gestion de cycle de vie logiciel"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "shape:vXzYF7HKdl0TznVTHvQ9q",
+			"index": "a37Dz",
+			"typeName": "shape"
+		},
+		{
+			"x": 52.13304303243697,
+			"y": 1332.7759001663483,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:vNZUBBL1Nt_WiIuKIr6uF",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 823.8646240234375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "avec le merge si il y a de conflict , il y aura un autre commit creer"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aCquG1sw",
+			"typeName": "shape"
+		},
+		{
+			"x": 150.33334604899088,
+			"y": 138,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:7o-JXMVKwVlpH5d1lgP4M",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 384.3125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "une commit est caracterisé par"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a25MI",
+			"typeName": "shape"
+		},
+		{
+			"x": -1959.8949910757624,
+			"y": 1249.2625766560927,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ymWnmq4WW4N6Djc7RM-wI",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 217.1041717529297,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "lifecycle mvn ????"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aKxJ56Hq",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 1318.4000244140625,
+				"h": 702.4000244140625
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1.25,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"x": 350.67631864020706,
+			"y": 949.5950902364136,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:FFIGJLzh16x4oWkVkNKaN",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"points": [
+							{
+								"x": 0,
+								"y": 0,
+								"z": 0.5
+							},
+							{
+								"x": -19.71,
+								"y": 23.46,
+								"z": 0.5
+							},
+							{
+								"x": -38.48,
+								"y": 45.05,
+								"z": 0.5
+							},
+							{
+								"x": -54.44,
+								"y": 65.7,
+								"z": 0.5
+							},
+							{
+								"x": -66.64,
+								"y": 78.84,
+								"z": 0.5
+							},
+							{
+								"x": -75.09,
+								"y": 88.23,
+								"z": 0.5
+							},
+							{
+								"x": -81.66,
+								"y": 99.49,
+								"z": 0.5
+							},
+							{
+								"x": -87.29,
+								"y": 111.69,
+								"z": 0.5
+							},
+							{
+								"x": -92.92,
+								"y": 121.08,
+								"z": 0.5
+							},
+							{
+								"x": -96.67,
+								"y": 127.65,
+								"z": 0.5
+							},
+							{
+								"x": -101.37,
+								"y": 134.22,
+								"z": 0.5
+							},
+							{
+								"x": -107,
+								"y": 140.79,
+								"z": 0.5
+							},
+							{
+								"x": -111.69,
+								"y": 147.36,
+								"z": 0.5
+							},
+							{
+								"x": -117.32,
+								"y": 154.87,
+								"z": 0.5
+							},
+							{
+								"x": -120.14,
+								"y": 156.74,
+								"z": 0.5
+							},
+							{
+								"x": -122.02,
+								"y": 159.56,
+								"z": 0.5
+							},
+							{
+								"x": -124.83,
+								"y": 162.38,
+								"z": 0.5
+							},
+							{
+								"x": -127.65,
+								"y": 164.25,
+								"z": 0.5
+							},
+							{
+								"x": -129.53,
+								"y": 167.07,
+								"z": 0.5
+							},
+							{
+								"x": -133.28,
+								"y": 168.01,
+								"z": 0.5
+							},
+							{
+								"x": -136.1,
+								"y": 170.82,
+								"z": 0.5
+							},
+							{
+								"x": -138.91,
+								"y": 172.7,
+								"z": 0.5
+							},
+							{
+								"x": -140.79,
+								"y": 174.58,
+								"z": 0.5
+							},
+							{
+								"x": -143.6,
+								"y": 176.45,
+								"z": 0.5
+							},
+							{
+								"x": -146.42,
+								"y": 177.39,
+								"z": 0.5
+							},
+							{
+								"x": -148.3,
+								"y": 179.27,
+								"z": 0.5
+							},
+							{
+								"x": -152.05,
+								"y": 182.09,
+								"z": 0.5
+							},
+							{
+								"x": -153.93,
+								"y": 183.02,
+								"z": 0.5
+							},
+							{
+								"x": -156.74,
+								"y": 183.96,
+								"z": 0.5
+							},
+							{
+								"x": -157.68,
+								"y": 184.9,
+								"z": 0.5
+							},
+							{
+								"x": -158.62,
+								"y": 184.9,
+								"z": 0.5
+							},
+							{
+								"x": -160.5,
+								"y": 184.9,
+								"z": 0.5
+							},
+							{
+								"x": -161.44,
+								"y": 184.9,
+								"z": 0.5
+							},
+							{
+								"x": -162.38,
+								"y": 184.9,
+								"z": 0.5
+							},
+							{
+								"x": -163.31,
+								"y": 184.9,
+								"z": 0.5
+							},
+							{
+								"x": -164.25,
+								"y": 184.9,
+								"z": 0.5
+							}
+						]
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aH5Xq",
+			"typeName": "shape"
+		},
+		{
+			"x": -1949.6768182593137,
+			"y": 1367.5009180538798,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:WOCnNLIg1waBZtRhDaZwd",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 781.03125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "clean : supprime les fichier resultant de compilation precedant"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aL5e96xb",
+			"typeName": "shape"
+		},
+		{
+			"x": -1950.8797071267966,
+			"y": 223.02682634422126,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:02c7-ZD8RVNr6PcCFiTFB",
+			"type": "group",
+			"parentId": "page:page",
+			"index": "aJya6mPy",
+			"props": {},
+			"typeName": "shape"
+		},
+		{
+			"x": 169.33334604899088,
+			"y": 172,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:TnB2B2N4jaX5-OEhmbcUw",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 193.1041717529297,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "author"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "date de commit"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"type": "text",
+									"text": "unique hash"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1",
+			"typeName": "shape"
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:rGFd0c_jr0_TYfTBA93EA",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 749.1771240234375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "groupId : par convention chaque groupId commence par org"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "shape:02c7-ZD8RVNr6PcCFiTFB",
+			"index": "a1",
+			"typeName": "shape"
+		},
+		{
+			"x": -1949.6768182593137,
+			"y": 1329.5479147453038,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:HgERJjK8z2zCr3Sx5bkwQ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 541.8021240234375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "clean n'est pas un cycle predefini dans mvn"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aL2rn7Kj",
+			"typeName": "shape"
+		},
+		{
+			"x": 555.2883767801118,
+			"y": 943.9635660946283,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ooZokBqMqipfGsLj1XSh4",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"points": [
+							{
+								"x": 0,
+								"y": 0,
+								"z": 0.5
+							},
+							{
+								"x": 1.88,
+								"y": 8.45,
+								"z": 0.5
+							},
+							{
+								"x": 10.32,
+								"y": 46.93,
+								"z": 0.5
+							},
+							{
+								"x": 15.96,
+								"y": 66.64,
+								"z": 0.5
+							},
+							{
+								"x": 16.89,
+								"y": 82.6,
+								"z": 0.5
+							},
+							{
+								"x": 18.77,
+								"y": 94.8,
+								"z": 0.5
+							},
+							{
+								"x": 21.59,
+								"y": 98.55,
+								"z": 0.5
+							},
+							{
+								"x": 23.46,
+								"y": 105.12,
+								"z": 0.5
+							},
+							{
+								"x": 29.1,
+								"y": 111.69,
+								"z": 0.5
+							},
+							{
+								"x": 35.67,
+								"y": 116.38,
+								"z": 0.5
+							},
+							{
+								"x": 40.36,
+								"y": 121.08,
+								"z": 0.5
+							},
+							{
+								"x": 47.87,
+								"y": 129.53,
+								"z": 0.5
+							},
+							{
+								"x": 52.56,
+								"y": 132.34,
+								"z": 0.5
+							},
+							{
+								"x": 57.25,
+								"y": 137.97,
+								"z": 0.5
+							},
+							{
+								"x": 61.95,
+								"y": 141.73,
+								"z": 0.5
+							},
+							{
+								"x": 63.82,
+								"y": 144.54,
+								"z": 0.5
+							},
+							{
+								"x": 68.52,
+								"y": 147.36,
+								"z": 0.5
+							},
+							{
+								"x": 72.27,
+								"y": 150.17,
+								"z": 0.5
+							},
+							{
+								"x": 75.09,
+								"y": 152.05,
+								"z": 0.5
+							},
+							{
+								"x": 81.66,
+								"y": 154.87,
+								"z": 0.5
+							},
+							{
+								"x": 84.47,
+								"y": 155.81,
+								"z": 0.5
+							},
+							{
+								"x": 87.29,
+								"y": 158.62,
+								"z": 0.5
+							},
+							{
+								"x": 91.04,
+								"y": 160.5,
+								"z": 0.5
+							},
+							{
+								"x": 92.92,
+								"y": 162.38,
+								"z": 0.5
+							},
+							{
+								"x": 96.67,
+								"y": 163.31,
+								"z": 0.5
+							},
+							{
+								"x": 97.61,
+								"y": 164.25,
+								"z": 0.5
+							},
+							{
+								"x": 98.55,
+								"y": 164.25,
+								"z": 0.5
+							},
+							{
+								"x": 99.49,
+								"y": 164.25,
+								"z": 0.5
+							},
+							{
+								"x": 100.43,
+								"y": 164.25,
+								"z": 0.5
+							},
+							{
+								"x": 101.37,
+								"y": 164.25,
+								"z": 0.5
+							},
+							{
+								"x": 102.31,
+								"y": 164.25,
+								"z": 0.5
+							}
+						]
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aF7Xw",
+			"typeName": "shape"
+		}
+	]
+}

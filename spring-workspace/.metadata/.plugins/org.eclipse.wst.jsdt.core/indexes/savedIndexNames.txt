@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\otman\OneDrive\Desktop\study\s2\spring-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+142570815.index
+3435788505.index
+1109431463.index
+2740698281.index
+2941495370.index
+3836087176.index
+1545344375.index

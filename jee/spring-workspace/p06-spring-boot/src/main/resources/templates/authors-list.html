@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th="www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+	<link rel="stylesheet" href="/spring-boot/css/styles.css">
+</head>
+<body>
+	<h1 th:text="${title}"></h1> <!-- ${} : expression language -->
+	<table class="data-table">
+		<tr><th>id</th><th>nom</th><th>anne</th></tr>
+		<tr th:each="a : ${authors}">
+			<td th:text="${a.id}"></td>
+			<td th:text="${a.name}"></td>
+			<td th:text="${a.yearBorn}"></td>
+		</tr>
+	</table>
+</body>
+</html>
+
+<!-- thyme leaf utilise html et ajoute quelque attribut au balise -->

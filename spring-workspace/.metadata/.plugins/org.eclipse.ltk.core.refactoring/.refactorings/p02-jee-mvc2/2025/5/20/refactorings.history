@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;WebContent&apos;&#x0D;&#x0A;- Original project: &apos;p02-jee-mvc2&apos;&#x0D;&#x0A;- Destination element: &apos;WebContent&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     css&#x0D;&#x0A;     views" description="Copy folders" element1="src/main/webapp/css" element2="src/main/webapp/views" files="0" flags="589830" folders="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1747062450831" target="/p03-web-xml/WebContent" units="0" version="1.0"/>
+</session>

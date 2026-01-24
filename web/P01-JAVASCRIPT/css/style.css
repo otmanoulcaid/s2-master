@@ -1,0 +1,66 @@
+.chapter{
+    box-shadow: 2px 2px 5px gray;
+    border-radius: 5px;
+    margin-left: 20 ;
+    margin-right: 20;
+    margin-block: 30px;
+    font-family: 'Segoe UI';
+}
+
+.chapter > header {
+    font-size: 18px;
+    background-color: beige;
+    font-weight: bold;
+    padding: 5px;
+    box-shadow: 2px 2px 5px gray;
+    margin-bottom: 10px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.chapter > p
+{
+    color: rgb(43, 61, 202);;
+    margin-left:18px ;
+    margin-right:18px ;
+    padding: 10px;
+    font-size: 16px;
+
+}
+
+.chapter > p:hover
+{
+    cursor: pointer;
+    background-color: beige;
+    font-weight: bold;
+}
+
+.exemple
+{
+    border : 1px dashed red;
+    margin-block: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.data-table
+{
+    box-shadow: 2px 2px 5px gray;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    font-family: 'Segoe UI';
+}
+
+.data-table th
+{
+    background-color: beige;
+}
+
+.data-table td
+{
+    padding: 5px;
+    border-top: 1px solid gray;
+}
